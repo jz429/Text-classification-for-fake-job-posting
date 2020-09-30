@@ -21,6 +21,4 @@ Documents (Codes in the format of jupyter notebooks):
 
 8. nn_Elmo_Final.ipynb: Final Neural net model with Elmo embedding
 
-9. team_25_final_report.pdf: Final Report
-
-10. Project Slides.pptx: Presentation Slides
+9. Project Slides.pptx: Presentation Slides
